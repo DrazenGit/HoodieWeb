@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "ooF7wHPufCOM9XDJEErTuGWM8rOTP0+vR9ivhSGxnL8=",
+  "Source": "HoodieWeb",
+  "BasePath": "_content/HoodieWeb",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "HoodieWeb\\wwwroot",
+      "Source": "HoodieWeb",
+      "ContentRoot": "C:\\Projects\\HoodieWeb\\wwwroot\\",
+      "BasePath": "_content/HoodieWeb",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Projects\\HoodieWeb\\wwwroot\\.placeholder",
+      "SourceId": "HoodieWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Projects\\HoodieWeb\\wwwroot\\",
+      "BasePath": "_content/HoodieWeb",
+      "RelativePath": ".placeholder",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\.placeholder"
+    }
+  ]
+}
